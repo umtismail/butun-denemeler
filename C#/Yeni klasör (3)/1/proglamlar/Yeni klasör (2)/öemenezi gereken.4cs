@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication48
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double fiyat, top;
+            Console.Write("fiyatı giriniz :");
+            fiyat = double.Parse(Console.ReadLine());
+            if (fiyat < 100)
+                top = fiyat;
+            else
+                top = fiyat + 5;
+            Console.WriteLine("ödemeneniz gereken fiyat {0} dır ", top);
+            Console.ReadKey();
+                
+
+        }
+    }
+}

@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication45
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double p;
+            Console.Write("bir miktar giriniz :");
+            p = double.Parse(Console.ReadLine());
+            if (p>=150)
+            
+                Console.WriteLine("fazla para harcadınız");
+                else Console.WriteLine("normalm para harcadınız");
+            
+            Console.ReadKey();
+        }
+    }
+}

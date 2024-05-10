@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yeni programlar XDD", "Yeni programlar XDD.csproj", "{B568F4C9-B238-4F8F-95FA-A7C07A3549C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harcama Veriler", "..\Harcama Veriler\Harcama Veriler.csproj", "{BC08A1C9-BD1F-4BA9-B51B-F0E1836EE5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sıcaklığın geçerli olduğunu bilen program", "sıcaklığın geçerli olduğunu bilen program\sıcaklığın geçerli olduğunu bilen program.csproj", "{BA470B74-8EBF-4B12-AFD8-3487DE784AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Başarım Durumunu ölçen program", "Başarım Durumunu ölçen program\Başarım Durumunu ölçen program.csproj", "{D2298C44-119A-4DA3-8E7F-1A74DA85BD42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "başarım durumunu ölcen program 2", "başarım durumunu ölcen program 2\başarım durumunu ölcen program 2.csproj", "{BD3E13E6-DEF7-4159-B5D7-3435124EACA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavyeden girilen sayının pozitif,negatif prog", "Klavyeden girilen sayının pozitif,negatif prog.\Klavyeden girilen sayının pozitif,negatif prog.csproj", "{E6DB971C-694F-48D7-BE2C-00E34582555C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klavyeden girilen sayı 10’a", "Klavyeden girilen sayı 10’a\Klavyeden girilen sayı 10’a.csproj", "{CB750957-5E97-4DF3-9903-0A2C46515FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "şifre 1234", "şifre 1234\şifre 1234.csproj", "{C732F02D-98BA-4314-AC3D-2A6F34EB96D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B568F4C9-B238-4F8F-95FA-A7C07A3549C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B568F4C9-B238-4F8F-95FA-A7C07A3549C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B568F4C9-B238-4F8F-95FA-A7C07A3549C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B568F4C9-B238-4F8F-95FA-A7C07A3549C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC08A1C9-BD1F-4BA9-B51B-F0E1836EE5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC08A1C9-BD1F-4BA9-B51B-F0E1836EE5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC08A1C9-BD1F-4BA9-B51B-F0E1836EE5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC08A1C9-BD1F-4BA9-B51B-F0E1836EE5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA470B74-8EBF-4B12-AFD8-3487DE784AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA470B74-8EBF-4B12-AFD8-3487DE784AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA470B74-8EBF-4B12-AFD8-3487DE784AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA470B74-8EBF-4B12-AFD8-3487DE784AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2298C44-119A-4DA3-8E7F-1A74DA85BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2298C44-119A-4DA3-8E7F-1A74DA85BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2298C44-119A-4DA3-8E7F-1A74DA85BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2298C44-119A-4DA3-8E7F-1A74DA85BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3E13E6-DEF7-4159-B5D7-3435124EACA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3E13E6-DEF7-4159-B5D7-3435124EACA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3E13E6-DEF7-4159-B5D7-3435124EACA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3E13E6-DEF7-4159-B5D7-3435124EACA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6DB971C-694F-48D7-BE2C-00E34582555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DB971C-694F-48D7-BE2C-00E34582555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DB971C-694F-48D7-BE2C-00E34582555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DB971C-694F-48D7-BE2C-00E34582555C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB750957-5E97-4DF3-9903-0A2C46515FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB750957-5E97-4DF3-9903-0A2C46515FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB750957-5E97-4DF3-9903-0A2C46515FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB750957-5E97-4DF3-9903-0A2C46515FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C732F02D-98BA-4314-AC3D-2A6F34EB96D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C732F02D-98BA-4314-AC3D-2A6F34EB96D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C732F02D-98BA-4314-AC3D-2A6F34EB96D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C732F02D-98BA-4314-AC3D-2A6F34EB96D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

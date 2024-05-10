@@ -1,0 +1,12 @@
+ int sayi, yuzler, onlar, birler;
+            Console.Write("Sayýyý Girin : ");
+            sayi = Convert.ToInt32(Console.ReadLine());
+            yuzler = sayi / 100;
+            sayi = sayi - (yuzler * 100);
+            onlar = sayi / 10;
+            sayi = sayi - (onlar * 10);
+            birler = sayi;
+            Console.WriteLine("Yüzler basamaðý : {0}", yuzler);
+            Console.WriteLine("Onlar basamaðý : {0}", onlar);
+            Console.WriteLine("Birler basamaðý : {0}", birler);
+            Console.ReadKey();

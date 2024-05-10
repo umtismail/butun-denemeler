@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayi\iki_sayi\bin\Debug\iki_sayi.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayi\iki_sayi\bin\Debug\iki_sayi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayi\iki_sayi\bin\Debug\iki_sayi.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayi\iki_sayi\obj\Debug\iki_sayi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayi\iki_sayi\obj\Debug\iki_sayi.pdb

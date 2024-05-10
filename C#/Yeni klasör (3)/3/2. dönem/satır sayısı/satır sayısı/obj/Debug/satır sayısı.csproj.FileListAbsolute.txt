@@ -1,0 +1,16 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\bin\Debug\satır sayısı.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır_sayısı.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\bin\Debug\satır sayısı.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\bin\Debug\satır sayısı.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\satır sayısı\satır sayısı\obj\Debug\satır sayısı.pdb
+D:\Dosyalar\visual\12 sınıf\2. dönem\satır sayısı\satır sayısı\bin\Debug\satır sayısı.exe.config
+D:\Dosyalar\visual\12 sınıf\2. dönem\satır sayısı\satır sayısı\obj\Debug\satır sayısı.exe
+D:\Dosyalar\visual\12 sınıf\2. dönem\satır sayısı\satır sayısı\obj\Debug\satır sayısı.pdb

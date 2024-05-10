@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\bin\Debug\Basit Kodlar.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\bin\Debug\Basit Kodlar.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\bin\Debug\Basit Kodlar.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\obj\Debug\Basit Kodlar.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\obj\Debug\Basit Kodlar.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Basit Kodlar\obj\Debug\Basit Kodlar.pdb

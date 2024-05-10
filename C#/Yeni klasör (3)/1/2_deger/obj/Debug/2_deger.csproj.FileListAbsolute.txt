@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\2_deger\bin\Debug\2_deger.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\2_deger\bin\Debug\2_deger.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\2_deger\bin\Debug\2_deger.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\2_deger\obj\Debug\2_deger.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\2_deger\obj\Debug\2_deger.pdb

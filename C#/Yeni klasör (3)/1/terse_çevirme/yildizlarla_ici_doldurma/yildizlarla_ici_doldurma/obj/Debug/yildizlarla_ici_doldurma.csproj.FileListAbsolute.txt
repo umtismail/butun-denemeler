@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlarla_ici_doldurma\yildizlarla_ici_doldurma\bin\Debug\yildizlarla_ici_doldurma.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlarla_ici_doldurma\yildizlarla_ici_doldurma\bin\Debug\yildizlarla_ici_doldurma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlarla_ici_doldurma\yildizlarla_ici_doldurma\bin\Debug\yildizlarla_ici_doldurma.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlarla_ici_doldurma\yildizlarla_ici_doldurma\obj\Debug\yildizlarla_ici_doldurma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlarla_ici_doldurma\yildizlarla_ici_doldurma\obj\Debug\yildizlarla_ici_doldurma.pdb

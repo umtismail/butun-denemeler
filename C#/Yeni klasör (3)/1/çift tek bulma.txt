@@ -1,0 +1,15 @@
+ int sayi;
+            Console.Write("Lütfen bir sayý giriniz:");
+            sayi = Convert.ToInt32(Console.ReadLine());
+            if (sayi % 2 == 1)
+            {
+                Console.WriteLine("Bu sayý tek bir deðerdir.");
+                Console.ReadLine();
+            }
+
+
+            else
+            {
+                Console.WriteLine("Bu sayý bir çift deðerdir.");
+                Console.ReadLine();
+            }

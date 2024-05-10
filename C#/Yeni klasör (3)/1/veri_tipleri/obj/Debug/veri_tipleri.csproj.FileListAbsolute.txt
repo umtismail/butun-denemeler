@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\veri_tipleri\bin\Debug\veri_tipleri.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\veri_tipleri\bin\Debug\veri_tipleri.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\veri_tipleri\bin\Debug\veri_tipleri.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\veri_tipleri\obj\Debug\veri_tipleri.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\veri_tipleri\obj\Debug\veri_tipleri.pdb

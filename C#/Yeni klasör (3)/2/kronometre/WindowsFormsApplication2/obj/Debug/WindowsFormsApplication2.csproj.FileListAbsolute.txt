@@ -1,0 +1,12 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\11 sınıf prog\form\kronometre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\11 sınıf prog\form\kronometre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\11 sınıf prog\form\kronometre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

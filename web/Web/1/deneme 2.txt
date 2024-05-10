@@ -1,0 +1,21 @@
+<html>
+<hade>
+<title> güzel sözler</title>
+</hade>
+<body>
+<font color="green">
+<h6> Milli Eğitim </h6>
+<h5> Milli Eğitim </h5>
+<h4> Milli Eğitim </h4>
+<h3> Milli Eğitim </h3>
+<h2> Milli Eğitim </h2>
+<h1> Milli Eğitim </h1>
+</font>
+</body>
+<body>
+Boşa zaman yoktur <font color="red" <i><u><b>boşa geçen zaman</b></u></i></font> vardır.
+<br>
+Boşa zaman yoktur <i>boşa geçen zaman</i> vardır.
+<br>
+</body>
+</html>

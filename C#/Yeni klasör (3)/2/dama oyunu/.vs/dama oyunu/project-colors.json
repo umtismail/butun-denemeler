@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c76a398-dccb-467e-91ed-e9ec2c85ca65": {
+      "ProjectGuid": "7c76a398-dccb-467e-91ed-e9ec2c85ca65",
+      "DisplayName": "dama oyunu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

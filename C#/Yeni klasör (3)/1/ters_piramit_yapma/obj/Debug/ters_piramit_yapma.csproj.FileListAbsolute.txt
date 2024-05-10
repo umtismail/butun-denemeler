@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\ters_piramit_yapma\bin\Debug\ters_piramit_yapma.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\ters_piramit_yapma\bin\Debug\ters_piramit_yapma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ters_piramit_yapma\bin\Debug\ters_piramit_yapma.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\ters_piramit_yapma\obj\Debug\ters_piramit_yapma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ters_piramit_yapma\obj\Debug\ters_piramit_yapma.pdb

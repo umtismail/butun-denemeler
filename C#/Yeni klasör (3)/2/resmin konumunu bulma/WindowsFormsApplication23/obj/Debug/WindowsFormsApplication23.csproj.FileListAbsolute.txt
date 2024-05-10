@@ -1,0 +1,8 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\bin\Debug\WindowsFormsApplication23.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication23\WindowsFormsApplication23\obj\Debug\WindowsFormsApplication23.pdb

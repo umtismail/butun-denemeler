@@ -1,0 +1,12 @@
+F:\Yeni klasör\Satranç_Oyunu\bin\Debug\Satranç_Oyunu.exe
+F:\Yeni klasör\Satranç_Oyunu\bin\Debug\Satranç_Oyunu.pdb
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.csprojResolveAssemblyReference.cache
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.about.resources
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.Oyun.resources
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.Properties.Resources.resources
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.csproj.GenerateResource.Cache
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.exe
+F:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.pdb
+D:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.exe
+D:\Yeni klasör\Satranç_Oyunu\obj\Debug\Satranç_Oyunu.pdb

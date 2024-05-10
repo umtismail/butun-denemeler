@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\bin\Debug\dikdortgenin_alani.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\obj\Debug\dikdortgenin_alani.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\bin\Debug\dikdortgenin_alani.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\bin\Debug\dikdortgenin_alani.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\obj\Debug\dikdortgenin_alani.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\dikdortgenin_alani\dikdortgenin_alani\obj\Debug\dikdortgenin_alani.pdb

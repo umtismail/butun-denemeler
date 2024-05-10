@@ -1,0 +1,16 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\bin\Debug\colorAnimation.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\bin\Debug\colorAnimation.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\bin\Debug\colorAnimation.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\colorAnimation\colorAnimation\obj\Debug\colorAnimation.pdb
+D:\Dosyalar\visual\12 sınıf\colorAnimation\colorAnimation\bin\Debug\colorAnimation.exe.config
+D:\Dosyalar\visual\12 sınıf\colorAnimation\colorAnimation\obj\Debug\colorAnimation.exe
+D:\Dosyalar\visual\12 sınıf\colorAnimation\colorAnimation\obj\Debug\colorAnimation.pdb

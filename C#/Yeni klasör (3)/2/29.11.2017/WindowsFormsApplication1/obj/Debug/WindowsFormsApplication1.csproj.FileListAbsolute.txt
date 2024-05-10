@@ -1,0 +1,13 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\11 sınıf prog\form\29.11.2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\11 sınıf prog\form\29.11.2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Dosyalar\visual\11 sınıf prog\form\29.11.2017\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Dosyalar\visual\11 sınıf prog\form\29.11.2017\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe

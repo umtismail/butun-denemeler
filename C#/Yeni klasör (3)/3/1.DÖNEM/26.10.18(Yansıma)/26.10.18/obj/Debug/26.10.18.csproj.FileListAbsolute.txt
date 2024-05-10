@@ -1,0 +1,30 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\bin\Debug\26.10.18.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\bin\Debug\26.10.18.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\bin\Debug\26.10.18.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\_26._10._18.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\26.10.18\26.10.18\obj\Debug\26.10.18.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\26.10.18(Yansıma)\26.10.18\bin\Debug\26.10.18.exe.config
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.pdb
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\bin\Debug\26.10.18.exe.config
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\bin\Debug\26.10.18.exe
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\bin\Debug\26.10.18.pdb
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.csprojResolveAssemblyReference.cache
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\MainWindow.baml
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\MainWindow.g.cs
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\App.g.cs
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18_MarkupCompile.cache
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.g.resources
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\_26._10._18.Properties.Resources.resources
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.csproj.GenerateResource.cache
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.csproj.CoreCompileInputs.cache
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.exe
+F:\Dosyalar\visual\12 sınıf\26.10.18(Yansıma)\26.10.18\obj\Debug\26.10.18.pdb

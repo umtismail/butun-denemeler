@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\denklem_cozumu\bin\Debug\denklem_cozumu.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\denklem_cozumu\bin\Debug\denklem_cozumu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\denklem_cozumu\bin\Debug\denklem_cozumu.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\denklem_cozumu\obj\Debug\denklem_cozumu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\denklem_cozumu\obj\Debug\denklem_cozumu.pdb

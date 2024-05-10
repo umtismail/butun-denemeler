@@ -1,0 +1,20 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\11 sınıf prog\form\sayıları büyükten küçüğe sırala\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe

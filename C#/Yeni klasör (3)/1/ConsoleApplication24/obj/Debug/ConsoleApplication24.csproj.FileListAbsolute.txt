@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb

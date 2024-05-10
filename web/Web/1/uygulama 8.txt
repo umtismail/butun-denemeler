@@ -1,0 +1,15 @@
+<html>
+<head> 
+<title>...</title>
+</head>
+<body>
+<font face="verdanana">
+Arama Motorları <br><BR>
+<A href="https://www.google.com.tr/"> Google </A><br>
+<A href="https://www.yahoo.com/">Yahoo</A><br>
+<A href="https://www.yaani.com/">Yaani</A><br>
+<A href="https://www.yandex.com.tr/">Yandex</A><br>
+<A href="https://www.bing.com/">Bing</A><br>
+
+</body>
+</html>

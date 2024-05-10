@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayinin_karesi\bin\Debug\iki_sayinin_karesi.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayinin_karesi\bin\Debug\iki_sayinin_karesi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayinin_karesi\bin\Debug\iki_sayinin_karesi.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayinin_karesi\obj\Debug\iki_sayinin_karesi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\iki_sayinin_karesi\obj\Debug\iki_sayinin_karesi.pdb

@@ -1,0 +1,17 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+E:\11 sınıf prog\form\FONT DEĞİŞTİRME\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache

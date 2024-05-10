@@ -1,0 +1,26 @@
+double a, b, c, alan, u;
+            Console.WriteLine("1.kenarı giriniz");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("2.kenarı giriniz");
+            b = double.Parse(Console.ReadLine());
+            Console.WriteLine("3.kenarı giriniz");
+            c = double.Parse(Console.ReadLine());
+            u = (a + b + c) / 3; // burda 3 kenarı toplatıp tekrar böldürüyorum
+            if (a == u)
+                Console.Write("eşkenar"); // burdaysa bir kenar eşit ise u değişkenine eş kenar yaptırıyorum. fakat girilen değer 10+20+30 =60/3=20 eğer a değişkenine 20 girdiysen ilk olarak sonuc eşkenar çıkar ama çeşit kenar olması gerekir. sorunun neden peki böyle ben U ve A değişkenini sorgulattım eger U ile B ye işlem yaptırsaydım bu sefer olduki yukardakı gibi bir işlem söz konusu oldu diyelim yine sonuç çeşitli kenar yerine eşkenar çıkacaktı. biraz üstünde çalışırsanız > yada < olayına girersen çözersin sorunu.
+
+
+            else if (a == b)
+                Console.Write("ikiz kenar");
+
+            else if (a == c)
+                Console.Write("ikiz kenar");
+
+
+            else if (b == c)
+                Console.Write("ikiz kenar");
+            else
+                Console.Write("Çeşit kenar");
+            Console.ReadKey();
+
+            Console.ReadLine();

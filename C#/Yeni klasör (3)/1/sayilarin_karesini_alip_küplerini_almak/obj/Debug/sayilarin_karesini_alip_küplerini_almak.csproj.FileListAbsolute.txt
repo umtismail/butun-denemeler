@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\sayilarin_karesini_alip_küplerini_almak\bin\Debug\sayilarin_karesini_alip_küplerini_almak.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\sayilarin_karesini_alip_küplerini_almak\bin\Debug\sayilarin_karesini_alip_küplerini_almak.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\sayilarin_karesini_alip_küplerini_almak\bin\Debug\sayilarin_karesini_alip_küplerini_almak.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\sayilarin_karesini_alip_küplerini_almak\obj\Debug\sayilarin_karesini_alip_küplerini_almak.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\sayilarin_karesini_alip_küplerini_almak\obj\Debug\sayilarin_karesini_alip_küplerini_almak.pdb

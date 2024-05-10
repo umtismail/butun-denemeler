@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApplication1"
+        xmlns:m="clr-namespace:WpfApplication1"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <m:Class1 x:Key="p"></m:Class1>
+    </Window.Resources>
+    <Grid x:Name="g1" DataContext="{Binding Source={StaticResource p}}">
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="113,33,0,0" TextWrapping="Wrap" Text="{Binding Isim, Mode=TwoWay}" VerticalAlignment="Top" Width="145" Background="{x:Null}"></TextBox>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="113,83,0,0" TextWrapping="Wrap" Text="{Binding sIsim, Mode=TwoWay}" VerticalAlignment="Top" Width="145" Background="{x:Null}"></TextBox>
+        <TextBlock HorizontalAlignment="Left" Height="24" Margin="113,150,0,0" TextWrapping="Wrap" Text="{Binding fIsim, Mode=TwoWay}" VerticalAlignment="Top" Width="145" Background="{x:Null}"></TextBlock>
+    </Grid>
+</Window>

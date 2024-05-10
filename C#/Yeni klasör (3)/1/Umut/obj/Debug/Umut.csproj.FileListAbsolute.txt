@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\Umut\bin\Debug\Umut.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\Umut\bin\Debug\Umut.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Umut\bin\Debug\Umut.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\Umut\obj\Debug\Umut.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Umut\obj\Debug\Umut.pdb

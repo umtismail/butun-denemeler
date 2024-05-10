@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\bin\Debug\ConsoleApplication42.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\bin\Debug\ConsoleApplication42.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\bin\Debug\ConsoleApplication42.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\obj\Debug\ConsoleApplication42.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\obj\Debug\ConsoleApplication42.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\ConsoleApplication42\obj\Debug\ConsoleApplication42.pdb

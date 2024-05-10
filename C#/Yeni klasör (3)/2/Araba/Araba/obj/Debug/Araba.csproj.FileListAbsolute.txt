@@ -1,0 +1,46 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\bin\Debug\Araba.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\bin\Debug\Araba.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\bin\Debug\Araba.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\Araba\Araba\obj\Debug\Araba.pdb
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.exe.config
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.exe
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.pdb
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.exe
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.pdb
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.csprojResolveAssemblyReference.cache
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.Form1.resources
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.Properties.Resources.resources
+D:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.csproj.GenerateResource.Cache
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.exe.config
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.exe
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\bin\Debug\Araba.pdb
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.csprojResolveAssemblyReference.cache
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.Form1.resources
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.Properties.Resources.resources
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.csproj.GenerateResource.Cache
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.csproj.CoreCompileInputs.cache
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.exe
+F:\local\dosyalar\Bilişim Bölümü\PROGRAMLAR 11\Araba\Araba\obj\Debug\Araba.pdb
+C:\Users\B2_1\Desktop\Araba\Araba\bin\Debug\Araba.exe.config
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.exe
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.pdb
+C:\Users\B2_1\Desktop\Araba\Araba\bin\Debug\Araba.exe
+C:\Users\B2_1\Desktop\Araba\Araba\bin\Debug\Araba.pdb
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.Form1.resources
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.Properties.Resources.resources
+C:\Users\B2_1\Desktop\Araba\Araba\obj\Debug\Araba.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\Araba\Araba\bin\Debug\Araba.exe.config
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.exe
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.pdb
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.Form1.resources
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.Properties.Resources.resources
+D:\11 sınıf prog\form\Araba\Araba\obj\Debug\Araba.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\Araba\Araba\bin\Debug\Araba.exe
+D:\11 sınıf prog\form\Araba\Araba\bin\Debug\Araba.pdb

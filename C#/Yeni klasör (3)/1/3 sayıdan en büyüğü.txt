@@ -1,0 +1,24 @@
+ int s1, s2, s3;
+
+            Console.WriteLine("Birinci sayýyý giriniz= ");
+            s1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ýkinci sayýyý giriniz= ");
+            s2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Üçüncü sayýyý giriniz= ");
+            s3 = Convert.ToInt32(Console.ReadLine());
+            
+            if ( s1 > s2 && s1 > s3  )
+            {
+            Console.WriteLine("1. sayý en büyüktür");
+            }
+            else if ( s2 > s1 && s2 > s3  )
+            {
+            Console.WriteLine("2. sayý en büyüktür ");
+            }
+            else if ( s3 > s1 && s3 > s2 )
+            {
+            Console.WriteLine("3. sayý en büyüktür ");
+            }
+           Console.ReadLine();

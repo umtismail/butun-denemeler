@@ -1,0 +1,6 @@
+string cumle;
+            Console.Write("Cumleyi Girin : ");
+            cumle = Console.ReadLine();
+            string[] kelimeler = cumle.Split(' ');
+            Console.WriteLine(kelimeler.Length);
+            Console.ReadKey();

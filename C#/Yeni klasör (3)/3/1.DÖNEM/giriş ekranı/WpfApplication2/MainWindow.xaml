@@ -1,0 +1,47 @@
+﻿<Window Name="ismail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Properties="clr-namespace:WpfApplication2.Properties" x:Class="WpfApplication2.MainWindow"
+        Title="MainWindow" Height="350" Width="525"  MouseMove="Window_MouseMove_1" MouseLeftButtonDown="Window_MouseLeftButtonDown_1" Activated="Window_Activated_1" AllowsTransparency="True" WindowStyle="None">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="102*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="45*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="103*"/>
+            <ColumnDefinition Width="184*"/>
+            <ColumnDefinition Width="76*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="783.jpg" Stretch="Fill" Grid.RowSpan="6" Grid.ColumnSpan="5"/>
+
+        <Border BorderBrush="Black" BorderThickness="1" Margin="32,0,30,2" Grid.ColumnSpan="2">
+            <Image Margin="0,0,0,0" Source="indir.jpg" Stretch="Fill"/>
+        </Border>
+        <Button Content="Kapat" Margin="10,13,16,10" Click="Button_Click_1" Grid.Row="5"/>
+        <Label Content="İsmail Uzun" Grid.Column="4" HorizontalAlignment="Left" Margin="0,9,-12,0" Grid.Row="5" VerticalAlignment="Top" Width="88" Foreground="#FF160DE8"/>
+        <Canvas Grid.ColumnSpan="2" Grid.Column="2" Margin="0,0,0,2" Grid.RowSpan="4" Grid.Row="1">
+            <Label Content="Giriş adı" Foreground="#FF85FF0C" Height="32" Canvas.Left="32" Canvas.Top="39" Width="53"/>
+            <Label Content="Sifre" RenderTransformOrigin="0.444,0.487" Foreground="#FF85FF0C" Background="{x:Null}" Height="25" Canvas.Left="42" Canvas.Top="81" Width="33"/>
+            <TextBox x:Name="txtGiris" TextWrapping="Wrap" TextChanged="txtGiris_TextChanged" Height="16" Canvas.Left="125" Canvas.Top="40" Width="135" />
+            <Button x:Name="bt1" Click="Button_Click" IsEnabled="False" Height="43" Canvas.Left="152" Canvas.Top="136" Width="95" Content="Kaydet">
+                <Button.Background>
+                    <ImageBrush ImageSource="images.jpg"/>
+                </Button.Background>
+            </Button>
+
+            <PasswordBox x:Name="pb1" PasswordChanged="pb1_PasswordChanged" Height="18" Canvas.Left="125" Canvas.Top="81" Width="135">
+                <PasswordBox.DataContext>
+                    <Properties:Resources/>
+                </PasswordBox.DataContext>
+            </PasswordBox>
+        </Canvas>
+
+    </Grid>
+</Window>

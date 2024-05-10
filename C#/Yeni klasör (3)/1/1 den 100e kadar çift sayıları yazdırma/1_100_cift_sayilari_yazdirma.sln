@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_100_cift_sayilari_yazdirma", "1 den 100e kadar çift sayıları yazdırma\1_100_cift_sayilari_yazdirma.csproj", "{DDFF94B1-E572-4C73-B20E-EAE09DE87FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFF94B1-E572-4C73-B20E-EAE09DE87FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFF94B1-E572-4C73-B20E-EAE09DE87FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFF94B1-E572-4C73-B20E-EAE09DE87FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFF94B1-E572-4C73-B20E-EAE09DE87FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

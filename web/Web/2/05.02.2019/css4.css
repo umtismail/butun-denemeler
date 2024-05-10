@@ -1,0 +1,68 @@
+body{
+	font-family:'Bookman Old Style';
+	color:silver;
+    }
+	
+#genel{width:1000px;
+margin:5px;
+padding:5px;
+background-color:green;}
+
+#header{width:960px;
+background-color:aqua;
+height:150px;
+padding:5px;
+}
+
+#banner{
+	padding:20px 0 0 20px;
+	height:80px;
+	width:350px;
+	background-color:purple;
+}
+
+#menu{
+	height:40px;
+	width:930px;
+	background-color:purple;
+	margin:10px 0;
+	padding:10px 0 0 30px;
+}
+
+#orta{
+	width:940px;
+	height:430px;
+	margin:0 auto;
+	padding:10px;
+	background-color:brown;
+}
+
+#ortasol{height:430px;
+width:330px;
+background-color:brown;
+float:left;
+padding-left:20px;
+}
+
+#ortasag{
+	height:430px;
+	width:560px;
+	background-color:brown;
+	float:left;
+	margin:0 0 0 10px;
+	padding-left:20px;
+}
+
+#temizle
+{clear:both;
+}
+
+#alt{
+	height:50px;
+	width:1000px;
+	background-color:brown;
+	margin:10px 0;
+	text-align:center;
+}
+	
+	

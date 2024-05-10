@@ -1,0 +1,15 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication19\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+E:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+E:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+E:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb
+H:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\bin\Debug\WindowsFormsApplication19.exe.config
+H:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.exe
+H:\11 sınıf prog\form\toolstrip\WindowsFormsApplication19\obj\Debug\WindowsFormsApplication19.pdb

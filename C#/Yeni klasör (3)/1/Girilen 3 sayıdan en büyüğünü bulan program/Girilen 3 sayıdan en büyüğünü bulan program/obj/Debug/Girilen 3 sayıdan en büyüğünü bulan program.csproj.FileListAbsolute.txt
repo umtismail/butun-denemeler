@@ -1,0 +1,6 @@
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\bin\Debug\Girilen 3 sayıdan en büyüğünü bulan program.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\bin\Debug\Girilen 3 sayıdan en büyüğünü bulan program.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\bin\Debug\Girilen 3 sayıdan en büyüğünü bulan program.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\obj\Debug\Girilen 3 sayıdan en büyüğünü bulan program.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\obj\Debug\Girilen 3 sayıdan en büyüğünü bulan program.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\Girilen 3 sayıdan en büyüğünü bulan program\Girilen 3 sayıdan en büyüğünü bulan program\obj\Debug\Girilen 3 sayıdan en büyüğünü bulan program.csprojResolveAssemblyReference.cache

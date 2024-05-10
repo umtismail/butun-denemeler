@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\bosluk_isareti\bin\Debug\bosluk_isareti.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\bosluk_isareti\bin\Debug\bosluk_isareti.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\bosluk_isareti\bin\Debug\bosluk_isareti.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\bosluk_isareti\obj\Debug\bosluk_isareti.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\bosluk_isareti\obj\Debug\bosluk_isareti.pdb

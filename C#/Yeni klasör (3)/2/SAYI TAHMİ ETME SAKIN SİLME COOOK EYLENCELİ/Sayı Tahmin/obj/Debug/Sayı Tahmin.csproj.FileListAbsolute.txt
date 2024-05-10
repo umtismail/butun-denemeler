@@ -1,0 +1,21 @@
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.exe.config
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.csprojResolveAssemblyReference.cache
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı_Tahmin.Form1.resources
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı_Tahmin.Properties.Resources.resources
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.csproj.GenerateResource.Cache
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.exe
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.pdb
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.exe
+c:\users\b5ogr1\documents\visual studio 2013\Projects\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.pdb
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.exe.config
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.exe
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.pdb
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.exe
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\bin\Debug\Sayı Tahmin.pdb
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.csprojResolveAssemblyReference.cache
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı_Tahmin.Form1.resources
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı_Tahmin.Properties.Resources.resources
+F:\11 sınıf prog\form\Sayı Tahmin\Sayı Tahmin\obj\Debug\Sayı Tahmin.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\SAYI TAHMİ ETME SAKIN SİLME COOOK EYLENCELİ\Sayı Tahmin\bin\Debug\Sayı Tahmin.exe.config
+D:\11 sınıf prog\form\SAYI TAHMİ ETME SAKIN SİLME COOOK EYLENCELİ\Sayı Tahmin\obj\Debug\Sayı Tahmin.exe
+D:\11 sınıf prog\form\SAYI TAHMİ ETME SAKIN SİLME COOOK EYLENCELİ\Sayı Tahmin\obj\Debug\Sayı Tahmin.pdb

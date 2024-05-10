@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\bin\Debug\SQLServer.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\SQLServer\SQLServer\obj\Debug\SQLServer.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\bisiklet class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57DE09-E0AE-4B94-98DF-42CF8864C974}|bisiklet\\bisiklet.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E57DE09-E0AE-4B94-98DF-42CF8864C974}|bisiklet\\bisiklet.csproj|solutionrelative:bisiklet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57DE09-E0AE-4B94-98DF-42CF8864C974}|bisiklet\\bisiklet.csproj|c:\\users\\\u0130so\\desktop\\yeni klas\u00F6r (3)-20240510t112652z-001\\yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E57DE09-E0AE-4B94-98DF-42CF8864C974}|bisiklet\\bisiklet.csproj|solutionrelative:bisiklet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\Program.cs",
+              "RelativeDocumentMoniker": "bisiklet\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\Program.cs",
+              "RelativeToolTip": "bisiklet\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:15:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\Form1.cs",
+              "RelativeDocumentMoniker": "bisiklet\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0130SO\\Desktop\\Yeni klas\u00F6r (3)-20240510T112652Z-001\\Yeni klas\u00F6r (3)\\11\\bisiklet class\\bisiklet\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "bisiklet\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:14:53.517Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

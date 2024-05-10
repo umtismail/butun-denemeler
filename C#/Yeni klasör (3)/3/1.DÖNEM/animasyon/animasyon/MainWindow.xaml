@@ -1,0 +1,160 @@
+﻿<Window x:Class="animasyon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="422.133" Width="604.152">
+    
+            <Window.Resources>
+        <Storyboard x:Key="Hikaye1a" x:Name="Hikaye1a">
+                <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                    <DoubleAnimation.EasingFunction>
+                        <BounceEase Bounces="2" EasingMode="EaseIn" 
+                                 Bounciness="2" />
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>   
+            </Storyboard>
+
+        <Storyboard x:Key="Hikaye2a" x:Name="Hikaye2a">
+            <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                <DoubleAnimation.EasingFunction>
+                    <BackEase Amplitude="0.3" EasingMode="EaseIn" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+        </Storyboard>
+
+        <Storyboard x:Key="Hikaye3a" x:Name="Hikaye3a">
+            <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                <DoubleAnimation.EasingFunction>
+                    <CircleEase EasingMode="EaseIn"/>
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+        </Storyboard>
+
+        <Storyboard x:Key="Hikaye4a" x:Name="Hikaye4a">
+            <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                <DoubleAnimation.EasingFunction>
+                    <CubicEase EasingMode="EaseIn"/>
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+        </Storyboard>
+
+
+
+
+
+        <Storyboard x:Key="Hikaye1b" x:Name="Hikaye1b">
+                <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                    <DoubleAnimation.EasingFunction>
+                        <BounceEase Bounces="2" EasingMode="EaseInOut" 
+                                 Bounciness="2" />
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+            </Storyboard>
+
+        <Storyboard x:Key="Hikaye2b" x:Name="Hikaye2b">
+                <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                    <DoubleAnimation.EasingFunction>
+                    <BackEase Amplitude="0.3" EasingMode="EaseInOut" />
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+            </Storyboard>
+
+        <Storyboard x:Key="Hikaye3b" x:Name="Hikaye3b">
+                <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                    <DoubleAnimation.EasingFunction>
+                    <CircleEase EasingMode="EaseInOut"/>
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+            </Storyboard>
+
+        <Storyboard x:Key="Hikaye4b" x:Name="Hikaye4b">
+                <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                    <DoubleAnimation.EasingFunction>
+                    <CubicEase EasingMode="EaseInOut"/>
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+            </Storyboard>
+
+
+
+        <Storyboard x:Key="Hikaye1c" x:Name="Hikaye1c">
+                    <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                        <DoubleAnimation.EasingFunction>
+                            <BounceEase Bounces="2" EasingMode="EaseOut" 
+                                 Bounciness="2" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+                </Storyboard>
+
+        <Storyboard x:Key="Hikaye2c" x:Name="Hikaye2c">
+                    <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                        <DoubleAnimation.EasingFunction>
+                    <BackEase Amplitude="0.3" EasingMode="EaseOut" />
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+                </Storyboard>
+
+        <Storyboard x:Key="Hikaye3c" x:Name="Hikaye3c">
+                    <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                        <DoubleAnimation.EasingFunction>
+                    <CircleEase EasingMode="EaseOut"/>
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+                </Storyboard>
+
+        <Storyboard x:Key="Hikaye4c" x:Name="Hikaye4c">
+                    <DoubleAnimation From="200" To="30" Duration="0:0:3" 
+                         Storyboard.TargetName="circle" AutoReverse="True"
+                         Storyboard.TargetProperty="(Canvas.Top)">
+                        <DoubleAnimation.EasingFunction>
+                    <CubicEase EasingMode="EaseOut"/>
+                        </DoubleAnimation.EasingFunction>
+                    </DoubleAnimation>
+                </Storyboard>
+            </Window.Resources>
+    
+     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="35*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="asd" Grid.Column="0" HorizontalAlignment="Left" Height="391" VerticalAlignment="Top" Width="382" Background="Red">
+            <Ellipse x:Name="circle" Fill="Blue" Height="178" Canvas.Left="78" Canvas.Top="57" Width="184"/>
+        </Canvas>
+        <WrapPanel Grid.Column="1" Orientation="Vertical" >
+            <ComboBox x:Name="cb1" Width="150">
+                <ComboBoxItem Content="EaseIn"/>
+                <ComboBoxItem Content="EaseInOut"/>
+                <ComboBoxItem Content="EaseOut"/>
+            </ComboBox>
+            <ComboBox x:Name="cb2" Width="150">
+                <ComboBoxItem Content="BounceEase"/>
+                <ComboBoxItem Content="BackEase"/>
+                <ComboBoxItem Content="CircleEase"/>
+                <ComboBoxItem Content="CubicEase"/>
+            </ComboBox>
+            <Button Content="Başalat" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click_1"/>
+        </WrapPanel>
+    </Grid>
+</Window>

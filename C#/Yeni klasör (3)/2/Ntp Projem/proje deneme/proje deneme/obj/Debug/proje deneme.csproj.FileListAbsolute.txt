@@ -1,0 +1,120 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+E:\Login\Programlama ve Visual\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\Proje\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.CoreCompileInputs.cache
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+E:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+F:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+F:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+F:\Login\Programlama ve Visual\Atak\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+C:\Users\MYBABY\Desktop\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+C:\Users\MYBABY\Desktop\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+C:\Users\MYBABY\Desktop\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+D:\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+C:\Users\B2_1\Desktop\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+D:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form2.resources
+E:\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+E:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+E:\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+D:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+D:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form2.resources
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+D:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+G:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+G:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form2.resources
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+G:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+G:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+F:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+F:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe
+F:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.pdb
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csprojResolveAssemblyReference.cache
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form1.resources
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Form2.resources
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje_deneme.Properties.Resources.resources
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.GenerateResource.Cache
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.csproj.CoreCompileInputs.cache
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+F:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb
+E:\Login\Ntp Projem\proje deneme\proje deneme\bin\Debug\proje deneme.exe.config
+E:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.exe
+E:\Login\Ntp Projem\proje deneme\proje deneme\obj\Debug\proje deneme.pdb

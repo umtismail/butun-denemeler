@@ -1,0 +1,3 @@
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen 10 sayının çiftleri toplayan prog\girilen 10 sayının çiftleri toplayan prog\bin\Debug\girilen 10 sayının çiftleri toplayan prog.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen 10 sayının çiftleri toplayan prog\girilen 10 sayının çiftleri toplayan prog\obj\Debug\girilen 10 sayının çiftleri toplayan prog.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen 10 sayının çiftleri toplayan prog\girilen 10 sayının çiftleri toplayan prog\obj\Debug\girilen 10 sayının çiftleri toplayan prog.pdb

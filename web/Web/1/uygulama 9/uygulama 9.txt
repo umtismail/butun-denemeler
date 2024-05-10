@@ -1,0 +1,14 @@
+<html>
+<head> 
+<title>...</title>
+</head>
+<body>
+<font face="verdanana">
+Takımlar <br><BR>
+<hr>
+<A href="file:///C:/Users/B2_1/Desktop/galatasaray.html"> GS </A><br>
+<A href="file:///C:/Users/B2_1/Desktop/bjk.html">BJK</A><br>
+<A href="file:///C:/Users/B2_1/Desktop/fb.html">FB</A><br>
+
+</body>
+</html>

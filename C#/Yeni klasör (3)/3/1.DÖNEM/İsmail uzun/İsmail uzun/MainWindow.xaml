@@ -1,0 +1,75 @@
+﻿<Window x:Class="İsmail_uzun.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="İsamail UZUN" Height="509" Width="535.448">
+
+    <Window.Resources>
+        <Style x:Key="btnstyle" TargetType="Button">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Background" Value="Purple"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+
+        <WrapPanel HorizontalAlignment="Left" Height="85" VerticalAlignment="Top" Width="115" Margin="0,26,0,0">
+            <Path Data="M 0,200 H100,200" 
+    			Stroke="Red" 
+    			Stretch="Fill" RenderTransformOrigin="0.237,0.475" Height="87.97" Width="109.15" />
+        </WrapPanel>
+
+        <WrapPanel HorizontalAlignment="Left" Height="95" Margin="172,26,0,0" VerticalAlignment="Top" Width="147">
+            <Path Data="M 10,100 C 10,300 300,-200 250,100" Stroke="Purple" Stretch="Fill" Height="91" Width="143.502" />
+        </WrapPanel>
+
+        <WrapPanel HorizontalAlignment="Left" Height="137" Margin="361,26,0,0" VerticalAlignment="Top" Width="136">
+            <Path Stroke="Red" StrokeThickness="1" Fill="YellowGreen" Stretch="Fill" Height="134.244" Width="134.953">
+                <Path.Data>
+                    <GeometryGroup FillRule="EvenOdd">
+                        <EllipseGeometry RadiusX="15" RadiusY="75" Center="75, 75"/>
+                        <EllipseGeometry RadiusX="200" RadiusY="40" Center="75,75"/>
+                        <RectangleGeometry Rect="30, 70 200  30" />
+                    </GeometryGroup>
+                </Path.Data>
+            </Path>
+        </WrapPanel>
+
+        <WrapPanel HorizontalAlignment="Left" Height="68" Margin="0,149,0,0" VerticalAlignment="Top" Width="67">
+            <Path Stroke="Yellow" StrokeThickness="3" Fill="Aqua" Stretch="Fill" Height="66.704" Width="68.061">
+                <Path.Data>
+                    <RectangleGeometry Rect="30, 70 200  30" />
+                </Path.Data>
+            </Path>
+        </WrapPanel>
+        <Button Style="{StaticResource ResourceKey=btnstyle}" x:Name="btn_polygon" Content="Create Polygon" HorizontalAlignment="Left" Margin="172,246,0,182" Click="btn_polygon_Click" Width="93"/>
+        <WrapPanel x:Name="wp" HorizontalAlignment="Left" Height="172" Margin="280,217,0,0" VerticalAlignment="Top" Width="247" Background="Black"/>
+        <Label Content="Çizgi" HorizontalAlignment="Left" Margin="22,6,0,0" VerticalAlignment="Top"/>
+        <Label Content="Eğik Çizgi" HorizontalAlignment="Left" Margin="219,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kare" HorizontalAlignment="Left" Margin="10,111,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.441,0.462"/>
+        <Label Content="Poligon" HorizontalAlignment="Left" Margin="375,158,0,0" VerticalAlignment="Top"/>
+        <Label Content="İsmail Uzun" HorizontalAlignment="Left" Margin="415,446,0,0" VerticalAlignment="Top" Width="102"/>
+        <Image HorizontalAlignment="Left" Height="91" Margin="0,307,0,0" VerticalAlignment="Top" Width="167" Source="indir.jpg"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="0,398,0,0" VerticalAlignment="Top" Width="167" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+            <Border.OpacityMask>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop/>
+                </LinearGradientBrush>
+            </Border.OpacityMask>
+            <Border.Background>
+                <ImageBrush ImageSource="indir.jpg"/>
+            </Border.Background>
+        </Border>
+
+    </Grid>
+</Window>

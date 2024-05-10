@@ -1,0 +1,30 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail_uzun.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun_Content.g.cs
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.exe.config
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.exe
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.pdb
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.exe
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.pdb
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\MainWindow.baml
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\MainWindow.g.cs
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\App.g.cs
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun_Content.g.cs
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun_MarkupCompile.cache
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.g.resources
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail_uzun.Properties.Resources.resources
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.csproj.GenerateResource.Cache
+D:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.csprojResolveAssemblyReference.cache
+E:\visual\12 sınıf\İsmail uzun\İsmail uzun\bin\Debug\İsmail uzun.exe.config
+E:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.exe
+E:\visual\12 sınıf\İsmail uzun\İsmail uzun\obj\Debug\İsmail uzun.pdb

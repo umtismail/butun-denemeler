@@ -1,0 +1,70 @@
+﻿<Window x:Class="uygulama.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="İsmail Uzun" Height="516" Width="732.25">
+    <Grid Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid Margin="23,36,395,210">
+            <Rectangle x:Name="r1" Height="232" Margin="0,1,62,0" Stroke="Black" VerticalAlignment="Top" StrokeThickness="{Binding Value, ElementName=s1}" Stretch="Uniform" RenderTransformOrigin="0.5,0.5" StrokeDashOffset="{Binding Value, ElementName=s2}" StrokeLineJoin="Bevel" StrokeDashArray="{Binding Text, ElementName=txt1}">
+                <Rectangle.Fill>
+                    <ImageBrush x:Name="image" ImageSource="Chrysanthemum.jpg"/>
+                </Rectangle.Fill>
+
+                <Rectangle.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.216"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0.496"/>
+                    </TransformGroup>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+        </Grid>
+        <Grid Margin="264,19,0,-19">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="0*"/>
+            </Grid.ColumnDefinitions>
+            <Slider x:Name="s2" Margin="28,370,145,0" VerticalAlignment="Top" Height="22"/>
+            <Slider x:Name="s1" Margin="28,292,145,0" SmallChange="1" Maximum="20" TickPlacement="TopLeft" Height="42" VerticalAlignment="Top"/>
+            <TextBox x:Name="txt1" Height="23" Margin="213,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left" Width="187"/>
+            <Label Content="StrokeThickness" Margin="18,261,0,0" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="112"/>
+            <Label Content="StrokeDashOffset" HorizontalAlignment="Left" Margin="28,339,0,0" VerticalAlignment="Top" Height="26" Width="102"/>
+            <Button Content="Resim Değiştir" Margin="28,413,186,0" Click="Button_Click_2" Height="53" VerticalAlignment="Top"/>
+            <Label Content="İsmail Uzun" Margin="313,434,10,0" Height="42" VerticalAlignment="Top" FontSize="17">
+                <Label.Foreground>
+                    <ImageBrush ImageSource="Koala.jpg"/>
+                </Label.Foreground>
+            </Label>
+        </Grid>
+        <Grid Margin="0,324,455,0">
+            <ComboBox x:Name="cb2" Margin="144,36,10,0" SelectionChanged="ComboBox_SelectionChanged_2" Height="22" VerticalAlignment="Top">
+                <ComboBoxItem Content="Flat"/>
+                <ComboBoxItem Content="Square"/>
+                <ComboBoxItem Content="Round"/>
+                <ComboBoxItem Content="Triangle"/>
+            </ComboBox>
+            <Label Content="strokedashcap" Margin="155,7,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="88">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.342"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <ComboBox x:Name="cb1" Margin="0,36,138,0" SelectionChanged="ComboBox_SelectionChanged_1" HorizontalAlignment="Right" Width="119" Height="22" VerticalAlignment="Top">
+                <ComboBoxItem Content="None"/>
+                <ComboBoxItem Content="Uniform"/>
+                <ComboBoxItem Content="Fill"/>
+                <ComboBoxItem Content="Uniform To Fill"/>
+            </ComboBox>
+            <Label Content="Stretch" Margin="10,10,128,0" VerticalAlignment="Top"/>
+        </Grid>
+
+    </Grid>
+</Window>

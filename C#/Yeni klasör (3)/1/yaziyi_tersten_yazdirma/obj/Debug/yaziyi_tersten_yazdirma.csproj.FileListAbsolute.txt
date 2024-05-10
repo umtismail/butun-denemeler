@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\yaziyi_tersten_yazdirma\bin\Debug\yaziyi_tersten_yazdirma.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\yaziyi_tersten_yazdirma\bin\Debug\yaziyi_tersten_yazdirma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yaziyi_tersten_yazdirma\bin\Debug\yaziyi_tersten_yazdirma.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\yaziyi_tersten_yazdirma\obj\Debug\yaziyi_tersten_yazdirma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yaziyi_tersten_yazdirma\obj\Debug\yaziyi_tersten_yazdirma.pdb

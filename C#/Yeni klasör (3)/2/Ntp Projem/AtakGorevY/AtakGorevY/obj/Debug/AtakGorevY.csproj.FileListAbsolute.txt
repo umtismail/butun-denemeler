@@ -1,0 +1,37 @@
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe.config
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.pdb
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.Properties.Resources.resources
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csproj.GenerateResource.Cache
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.exe
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.pdb
+C:\Users\B2_1\Desktop\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.a.resources
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe.config
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.exe
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.pdb
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe.config
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.pdb
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csprojResolveAssemblyReference.cache
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.a.resources
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.Properties.Resources.resources
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csproj.GenerateResource.Cache
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csproj.CoreCompileInputs.cache
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.exe
+F:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.pdb
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csprojResolveAssemblyReference.cache
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.a.resources
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.Properties.Resources.resources
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csproj.GenerateResource.Cache
+D:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.pdb
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csprojResolveAssemblyReference.cache
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.a.resources
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.Properties.Resources.resources
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.csproj.GenerateResource.Cache
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.exe
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\obj\Debug\AtakGorevY.pdb
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe.config
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.exe
+E:\Login\Ntp Projem\AtakGorevY\AtakGorevY\bin\Debug\AtakGorevY.pdb

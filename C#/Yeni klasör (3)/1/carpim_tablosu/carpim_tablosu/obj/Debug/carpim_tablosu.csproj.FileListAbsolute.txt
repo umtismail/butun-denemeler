@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\carpim_tablosu\carpim_tablosu\bin\Debug\carpim_tablosu.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\carpim_tablosu\carpim_tablosu\bin\Debug\carpim_tablosu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\carpim_tablosu\carpim_tablosu\bin\Debug\carpim_tablosu.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\carpim_tablosu\carpim_tablosu\obj\Debug\carpim_tablosu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\carpim_tablosu\carpim_tablosu\obj\Debug\carpim_tablosu.pdb

@@ -1,0 +1,7 @@
+c:\users\pc-9\documents\visual studio 2012\Projects\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\bin\Debug\girilen sayının negativ mi pozitif mi.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\bin\Debug\girilen sayının negativ mi pozitif mi.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\bin\Debug\girilen sayının negativ mi pozitif mi.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\bin\Debug\girilen sayının negativ mi pozitif mi.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\obj\Debug\girilen sayının negativ mi pozitif mi.csprojResolveAssemblyReference.cache
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\obj\Debug\girilen sayının negativ mi pozitif mi.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi\obj\Debug\girilen sayının negativ mi pozitif mi.pdb

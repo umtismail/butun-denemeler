@@ -1,0 +1,8 @@
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dosyalar\visual\10 sınıf program\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,30 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\bin\Debug\randevu programı.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\bin\Debug\randevu programı.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\bin\Debug\randevu programı.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu_programı.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\randevu programı\randevu programı\obj\Debug\randevu programı.pdb
+F:\visual\12 sınıf\randevu programı\randevu programı\bin\Debug\randevu programı.exe.config
+F:\visual\12 sınıf\randevu programı\randevu programı\bin\Debug\randevu programı.exe
+F:\visual\12 sınıf\randevu programı\randevu programı\bin\Debug\randevu programı.pdb
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.csprojResolveAssemblyReference.cache
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\MainWindow.baml
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\MainWindow.g.cs
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\App.g.cs
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı_MarkupCompile.cache
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.g.resources
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu_programı.Properties.Resources.resources
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.csproj.GenerateResource.cache
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.csproj.CoreCompileInputs.cache
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.exe
+F:\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.pdb
+D:\Dosyalar\visual\12 sınıf\randevu programı\randevu programı\bin\Debug\randevu programı.exe.config
+D:\Dosyalar\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.exe
+D:\Dosyalar\visual\12 sınıf\randevu programı\randevu programı\obj\Debug\randevu programı.pdb

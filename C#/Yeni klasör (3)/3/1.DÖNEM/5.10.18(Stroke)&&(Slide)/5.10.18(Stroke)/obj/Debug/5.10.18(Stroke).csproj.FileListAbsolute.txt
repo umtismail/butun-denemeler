@@ -1,0 +1,40 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke)_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\_5._10._18_Stroke_.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\MainWindow.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\MainWindow.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\App.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke)_MarkupCompile.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).g.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\_5._10._18_Stroke_.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\5.10.18(Stroke)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csproj.GenerateResource.Cache
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe.config
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).exe
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\bin\Debug\5.10.18(Stroke).pdb
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csprojResolveAssemblyReference.cache
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\MainWindow.baml
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\MainWindow.g.cs
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\App.g.cs
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke)_MarkupCompile.cache
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).g.resources
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\_5._10._18_Stroke_.Properties.Resources.resources
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csproj.GenerateResource.cache
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).csproj.CoreCompileInputs.cache
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).exe
+F:\Dosyalar\visual\12 sınıf\5.10.18(Stroke)&&(Slide)\5.10.18(Stroke)\obj\Debug\5.10.18(Stroke).pdb

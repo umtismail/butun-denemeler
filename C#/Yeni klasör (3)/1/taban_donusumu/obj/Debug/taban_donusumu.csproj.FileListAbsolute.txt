@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\taban_donusumu\bin\Debug\taban_donusumu.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\taban_donusumu\bin\Debug\taban_donusumu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\taban_donusumu\bin\Debug\taban_donusumu.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\taban_donusumu\obj\Debug\taban_donusumu.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\taban_donusumu\obj\Debug\taban_donusumu.pdb

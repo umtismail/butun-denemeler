@@ -1,0 +1,29 @@
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe.config
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Form1.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Form1.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-11-B\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.pdb
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe.config
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.exe
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.pdb
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.pdb
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Form1.resources
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form_kayıt_ekranı.Properties.Resources.resources
+D:\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.csproj.GenerateResource.Cache
+D:\visual\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\bin\Debug\form kayıt ekranı.exe.config
+D:\visual\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.exe
+D:\visual\11 sınıf prog\form\form kayıt ekranı\form kayıt ekranı\obj\Debug\form kayıt ekranı.pdb

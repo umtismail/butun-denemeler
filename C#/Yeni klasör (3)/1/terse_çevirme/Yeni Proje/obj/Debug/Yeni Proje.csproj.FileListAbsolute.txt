@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\bin\Debug\Yeni Proje.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\bin\Debug\Yeni Proje.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\bin\Debug\Yeni Proje.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\obj\Debug\Yeni Proje.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\obj\Debug\Yeni Proje.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni Proje\obj\Debug\Yeni Proje.pdb

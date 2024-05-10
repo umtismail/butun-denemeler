@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication52
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int değer;
+            Console.Write(" 1 ile 5 arasında bir deger girin:");
+            değer = Convert.ToInt32(Console.ReadLine());
+            if (değer == 1)
+                Console.WriteLine("başarısız");
+            else if (değer == 2)
+                Console.WriteLine("geçer");
+            else if (değer == 3)
+                Console.WriteLine("orta");
+            else if (değer == 4)
+                Console.WriteLine("iyi");
+            else if (değer == 5)
+                Console.WriteLine("pekiyi");
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,16 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+E:\11 sınıf prog\form\menü strip\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache

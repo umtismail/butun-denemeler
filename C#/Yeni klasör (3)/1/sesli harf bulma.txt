@@ -1,0 +1,24 @@
+string cumle; 
+  int adet; 
+  cumle = Console.ReadLine(); 
+adet = SesliBul(cumle); 
+  Console.WriteLine("sesli harf sayýsý : {0}",adet); 
+  Console.ReadKey(); 
+  } 
+  // SesliBul() Fonksiyonu 
+  static int SesliBul(string a) 
+          { 
+              char[] sesli = { 'a', 'e', 'ý', 'i', 'u', 'ü', 'o', 'ö' }; 
+              int b = 0; 
+              for (int i = 0; i < a.Length; i++) 
+              { 
+                  for (int k = 0; k < sesli.Length; k++) 
+                  { 
+                      if (a[i] == sesli[k]) 
+                      { 
+                          b++; 
+                      } 
+                  } 
+                  } 
+              return b; 
+          } 

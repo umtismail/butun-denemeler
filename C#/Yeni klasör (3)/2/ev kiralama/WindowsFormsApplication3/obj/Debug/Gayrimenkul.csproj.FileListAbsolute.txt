@@ -1,0 +1,33 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.evf.resources
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csprojResolveAssemblyReference.cache
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.evf.resources
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csproj.GenerateResource.Cache
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csproj.CoreCompileInputs.cache
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.evf.resources
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\Gayrimenkul.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ArsaF.resources
+D:\11 sınıf prog\form\ev kiralama\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.İsYeriF.resources

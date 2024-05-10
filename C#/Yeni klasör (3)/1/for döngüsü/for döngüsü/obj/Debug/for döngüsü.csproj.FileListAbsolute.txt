@@ -1,0 +1,8 @@
+c:\users\pc-9\documents\visual studio 2012\Projects\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe.config
+c:\users\pc-9\documents\visual studio 2012\Projects\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe
+c:\users\pc-9\documents\visual studio 2012\Projects\for döngüsü\for döngüsü\bin\Debug\for döngüsü.pdb
+c:\users\pc-9\documents\visual studio 2012\Projects\for döngüsü\for döngüsü\obj\Debug\for döngüsü.exe
+c:\users\pc-9\documents\visual studio 2012\Projects\for döngüsü\for döngüsü\obj\Debug\for döngüsü.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\for döngüsü\for döngüsü\bin\Debug\for döngüsü.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\for döngüsü\for döngüsü\obj\Debug\for döngüsü.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\for döngüsü\for döngüsü\obj\Debug\for döngüsü.pdb

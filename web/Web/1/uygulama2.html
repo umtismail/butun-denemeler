@@ -1,0 +1,67 @@
+<html>
+<head>
+<titel>Form Etiketleri</titel>
+<meta charser="utf-8">
+</head>
+<body>
+
+<form action ="www.ismail.com" method="get">
+<table border="1">
+
+<tr>
+<td>Ad:</td>
+<td><input type ="text" name="AD" id="ad" required placeholder ="Lütfen Adınızı Giriniz"></td>
+</tr>
+
+<tr>
+<td>Soyad:</td>
+<td><input type ="text" name="soyad" id="soyad" required placeholder ="Lütfen Soyadınızı Giriniz"></td>
+</tr>
+
+<tr>
+<td>Yas:</td>
+<td><input type="number" name="yas" id="yas" min="18" max="88"></td>
+</tr>
+
+<tr>
+<td>Resim Ekle:</td>
+<td><input type="file" name="resim" id="resim"></td>
+</tr>
+
+<tr>
+<td>TC No</td>
+<td><input type ="text"  name="TC no" id="TC no" required placeholder ="TC Giriniz"></td>
+</tr>
+
+<tr>
+<td colspan="2">
+Kadın<input type="radio" name="cinsiyet" id="cinsiyet" value="kadın" checked> 
+Erkek<input type="radio" name="cinsiyet" id="cinsiyet" value="erkek" >
+</td>
+
+<tr>
+<td>Yabancı Diller</td>
+<td colspan="3">
+<input TYPE="checkbox" NAME="dil1" value="ing" >ingilzice
+<input TYPE="checkbox" NAME="dil2" value="alm" >almanca
+<input TYPE="checkbox" NAME="dil3" value="fr">fransızca
+</td>
+</tr>
+
+<tr>
+<td>Görüş</td>
+<td><textarea name ="mesaj" rows="3" cols="20">
+</textarea>
+</tr>
+
+<tr>
+<td colspan="2">
+<input type="submit" name="kaydet" value="kaydet" id="kaydet">
+<input type="reset" name="sil" id="sil" value="Temizle">
+</td>
+</tr>
+</form>
+</body>
+</html>
+
+

@@ -1,0 +1,11 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\11 sınıf prog\form\renk değiştiren form\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\11 sınıf prog\form\renk değiştiren form\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\11 sınıf prog\form\renk değiştiren form\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

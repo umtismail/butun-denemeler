@@ -1,0 +1,30 @@
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\LAB5OGR16\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\App.g.cs
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\MainWindow.baml
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Dosyalar\visual\12 sınıf\performans\WpfApp1\obj\Debug\WpfApp1.pdb

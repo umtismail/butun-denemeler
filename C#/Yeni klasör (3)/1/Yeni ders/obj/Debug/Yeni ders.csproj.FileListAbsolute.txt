@@ -1,0 +1,6 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\bin\Debug\Yeni ders.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\bin\Debug\Yeni ders.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\bin\Debug\Yeni ders.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\obj\Debug\Yeni ders.csprojResolveAssemblyReference.cache
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\obj\Debug\Yeni ders.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\Yeni ders\obj\Debug\Yeni ders.pdb

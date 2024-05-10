@@ -1,0 +1,4 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\matris_hsp\bin\Debug\matris_hsp.exe.config
+D:\Dosyalar\visual\10 sınıf program\matris_hsp\obj\Debug\matris_hsp.csproj.AssemblyReference.cache
+D:\Dosyalar\visual\10 sınıf program\matris_hsp\obj\Debug\matris_hsp.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\visual\10 sınıf program\matris_hsp\obj\Debug\matris_hsp.csproj.CoreCompileInputs.cache

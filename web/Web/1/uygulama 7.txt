@@ -1,0 +1,28 @@
+<html>
+<head> 
+<title>...</title>
+</head>
+<body>
+<font face="verdanana">
+GRAFİK VE ANİMASYON DERSİ MÖDÜLLERİ <br><BR>
+<A href="#modul1"> 1 .GÖRÜNTÜ İŞLEME </A><br>
+<A href="#modul2"> 2 .RESİMLERLE WEB ARAÖLARI HAZIRLAMA </A><br>
+<A href="#modul3"> 3 .ANİMASYON TEMELLERİ </A><br>
+<A href="#modul4"> 4 .WEB ORTAMI İÇİN ANİMASYON HAZIRLAMA </A><br>
+<A href="#modul5"> 5 .ETKİLEŞİMLİ ANİMASYONLAR </A><br>
+<A href="#modul6"> 6 .GELİŞMİŞ ANİMASYONLAR </A><br><BR>
+
+<b><A NAME="modul1">1 . GÖRÜNTÜ İŞLEME</A><br></b>
+.......................<br>
+<b><A NAME="modul2"> 2. RESİMLERLE WEB ARAÖLARI HAZIRLAMA </A><br></b>
+.......................<br>
+<b><A NAME="modul3"> 3. ANİMASYON TEMELLERİ </A><br></b>
+.......................<br>
+<b><A NAME="modul5"> 4. WEB ORTAMI İÇİN ANİMASYON HAZIRLAMA  </A><br></b>
+.......................<br>
+<b><A NAME="modul5"> 5. ETKİLEŞİMLİ ANİMASYONLAR </A><br></b>
+.......................<br>
+<b><A NAME="modul6"> 6. GELİŞMİŞ ANİMASYONLAR </A><br></b>
+.......................<br>
+</body>
+</html>

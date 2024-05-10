@@ -1,0 +1,8 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlar\yildizlar\bin\Debug\yildizlar.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlar\yildizlar\bin\Debug\yildizlar.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlar\yildizlar\bin\Debug\yildizlar.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlar\yildizlar\obj\Debug\yildizlar.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\yildizlar\yildizlar\obj\Debug\yildizlar.pdb
+E:\10 sınıf program\yildizlar\yildizlar\bin\Debug\yildizlar.exe.config
+E:\10 sınıf program\yildizlar\yildizlar\obj\Debug\yildizlar.exe
+E:\10 sınıf program\yildizlar\yildizlar\obj\Debug\yildizlar.pdb

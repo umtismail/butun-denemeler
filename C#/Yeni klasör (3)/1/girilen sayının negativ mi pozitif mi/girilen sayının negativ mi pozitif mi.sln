@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "girilen sayının negativ mi pozitif mi", "girilen sayının negativ mi pozitif mi\girilen sayının negativ mi pozitif mi.csproj", "{52E232F3-D8B4-4D19-AD87-0DFB2B6B2563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E232F3-D8B4-4D19-AD87-0DFB2B6B2563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E232F3-D8B4-4D19-AD87-0DFB2B6B2563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E232F3-D8B4-4D19-AD87-0DFB2B6B2563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E232F3-D8B4-4D19-AD87-0DFB2B6B2563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

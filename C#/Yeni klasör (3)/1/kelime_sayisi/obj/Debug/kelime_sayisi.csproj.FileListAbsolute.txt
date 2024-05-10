@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\kelime_sayisi\bin\Debug\kelime_sayisi.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\kelime_sayisi\bin\Debug\kelime_sayisi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\kelime_sayisi\bin\Debug\kelime_sayisi.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\kelime_sayisi\obj\Debug\kelime_sayisi.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\kelime_sayisi\obj\Debug\kelime_sayisi.pdb

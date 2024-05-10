@@ -1,0 +1,69 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\bin\Debug\19.10.18.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\bin\Debug\19.10.18.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\bin\Debug\19.10.18.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\_19._10._18.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.10.18\19.10.18\obj\Debug\19.10.18.pdb
+D:\19.10.18\19.10.18\bin\Debug\19.10.18.exe.config
+D:\19.10.18\19.10.18\obj\Debug\19.10.18.exe
+D:\19.10.18\19.10.18\obj\Debug\19.10.18.pdb
+D:\19.10.18\19.10.18\bin\Debug\19.10.18.exe
+D:\19.10.18\19.10.18\bin\Debug\19.10.18.pdb
+D:\19.10.18\19.10.18\obj\Debug\19.10.18.csprojResolveAssemblyReference.cache
+D:\19.10.18\19.10.18\obj\Debug\MainWindow.baml
+D:\19.10.18\19.10.18\obj\Debug\MainWindow.g.cs
+D:\19.10.18\19.10.18\obj\Debug\App.g.cs
+D:\19.10.18\19.10.18\obj\Debug\19.10.18_MarkupCompile.cache
+D:\19.10.18\19.10.18\obj\Debug\19.10.18.g.resources
+D:\19.10.18\19.10.18\obj\Debug\_19._10._18.Properties.Resources.resources
+D:\19.10.18\19.10.18\obj\Debug\19.10.18.csproj.GenerateResource.Cache
+E:\19.10.18\19.10.18\bin\Debug\19.10.18.exe.config
+E:\19.10.18\19.10.18\obj\Debug\19.10.18.exe
+E:\19.10.18\19.10.18\obj\Debug\19.10.18.pdb
+E:\19.10.18\19.10.18\bin\Debug\19.10.18.exe
+E:\19.10.18\19.10.18\bin\Debug\19.10.18.pdb
+E:\19.10.18\19.10.18\obj\Debug\19.10.18.csprojResolveAssemblyReference.cache
+E:\19.10.18\19.10.18\obj\Debug\MainWindow.baml
+E:\19.10.18\19.10.18\obj\Debug\MainWindow.g.cs
+E:\19.10.18\19.10.18\obj\Debug\App.g.cs
+E:\19.10.18\19.10.18\obj\Debug\19.10.18_MarkupCompile.cache
+E:\19.10.18\19.10.18\obj\Debug\19.10.18.g.resources
+E:\19.10.18\19.10.18\obj\Debug\_19._10._18.Properties.Resources.resources
+E:\19.10.18\19.10.18\obj\Debug\19.10.18.csproj.GenerateResource.Cache
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.exe.config
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.exe
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.pdb
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.exe
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.pdb
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.csprojResolveAssemblyReference.cache
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\MainWindow.baml
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\MainWindow.g.cs
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\App.g.cs
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18_MarkupCompile.cache
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.g.resources
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\_19._10._18.Properties.Resources.resources
+D:\Avni Egemen UZUN 19 ekim uygulama 1002\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.pdb
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.exe.config
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.exe
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\bin\Debug\19.10.18.pdb
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.csprojResolveAssemblyReference.cache
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\MainWindow.baml
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\MainWindow.g.cs
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\App.g.cs
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18_MarkupCompile.cache
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.g.resources
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\_19._10._18.Properties.Resources.resources
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.csproj.GenerateResource.cache
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.csproj.CoreCompileInputs.cache
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.exe
+F:\Dosyalar\visual\12 sınıf\19.10.18(Şekil Hareket)\19.10.18\obj\Debug\19.10.18.pdb

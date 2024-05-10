@@ -1,0 +1,2 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\cift_sayilari_yazdirma\cift_sayilari_yazdirma\bin\Debug\cift_sayilari_yazdirma.exe.config
+D:\10. sınıf kodlar\cift_sayilari_yazdirma\cift_sayilari_yazdirma\bin\Debug\cift_sayilari_yazdirma.exe.config

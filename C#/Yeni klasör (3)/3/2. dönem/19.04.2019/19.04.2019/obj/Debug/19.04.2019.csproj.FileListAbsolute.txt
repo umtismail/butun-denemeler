@@ -1,0 +1,13 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\bin\Debug\19.04.2019.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019.csprojResolveAssemblyReference.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\_19._04._2019.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\bin\Debug\19.04.2019.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\bin\Debug\19.04.2019.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\19.04.2019\19.04.2019\obj\Debug\19.04.2019.pdb

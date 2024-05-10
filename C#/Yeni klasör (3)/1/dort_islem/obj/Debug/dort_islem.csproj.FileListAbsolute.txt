@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\dort_islem\bin\Debug\dort_islem.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\dort_islem\bin\Debug\dort_islem.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\dort_islem\bin\Debug\dort_islem.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\dort_islem\obj\Debug\dort_islem.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\dort_islem\obj\Debug\dort_islem.pdb

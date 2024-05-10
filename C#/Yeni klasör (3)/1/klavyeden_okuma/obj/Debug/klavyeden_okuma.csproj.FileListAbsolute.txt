@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\klavyeden_okuma\bin\Debug\klavyeden_okuma.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\klavyeden_okuma\bin\Debug\klavyeden_okuma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\klavyeden_okuma\bin\Debug\klavyeden_okuma.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\klavyeden_okuma\obj\Debug\klavyeden_okuma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\klavyeden_okuma\obj\Debug\klavyeden_okuma.pdb

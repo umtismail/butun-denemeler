@@ -1,0 +1,12 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\bin\Debug\arayüz.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\bin\Debug\arayüz.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\bin\Debug\arayüz.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\arayüz\arayüz\obj\Debug\arayüz.pdb
+D:\11 sınıf prog\form\arayüz\arayüz\bin\Debug\arayüz.exe.config
+D:\11 sınıf prog\form\arayüz\arayüz\obj\Debug\arayüz.exe
+D:\11 sınıf prog\form\arayüz\arayüz\obj\Debug\arayüz.pdb

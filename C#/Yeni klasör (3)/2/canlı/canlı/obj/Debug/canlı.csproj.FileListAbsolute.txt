@@ -1,0 +1,10 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\canlı\canlı\bin\Debug\canlı.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\canlı\canlı\obj\Debug\canlı.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\canlı\canlı\obj\Debug\canlı.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\canlı\canlı\obj\Debug\canlı.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\canlı\canlı\obj\Debug\canlı.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\canlı\canlı\bin\Debug\canlı.exe.config
+D:\11 sınıf prog\form\canlı\canlı\obj\Debug\canlı.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\canlı\canlı\obj\Debug\canlı.Form1.resources
+D:\11 sınıf prog\form\canlı\canlı\obj\Debug\canlı.Properties.Resources.resources
+D:\11 sınıf prog\form\canlı\canlı\obj\Debug\canlı.csproj.GenerateResource.Cache

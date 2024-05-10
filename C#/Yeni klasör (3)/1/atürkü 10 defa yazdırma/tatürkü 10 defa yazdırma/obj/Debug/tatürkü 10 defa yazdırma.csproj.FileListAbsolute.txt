@@ -1,0 +1,12 @@
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.exe.config
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.exe
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.pdb
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.csprojResolveAssemblyReference.cache
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.exe
+c:\users\pc-9\documents\visual studio 2012\Projects\tatürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.exe.config
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.exe
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\bin\Debug\tatürkü 10 defa yazdırma.pdb
+F:\Egemen\Programlama ve Visual\Visual Studio\atürkü 10 defa yazdırma\tatürkü 10 defa yazdırma\obj\Debug\tatürkü 10 defa yazdırma.csprojResolveAssemblyReference.cache

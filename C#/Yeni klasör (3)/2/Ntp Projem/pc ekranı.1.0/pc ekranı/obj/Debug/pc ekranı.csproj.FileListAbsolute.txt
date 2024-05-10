@@ -1,0 +1,185 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+c:\users\b2_1\documents\visual studio 2013\Projects\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+E:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Proje\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.CoreCompileInputs.cache
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+E:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.CoreCompileInputs.cache
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+F:\Login\Programlama ve Visual\Atak\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe.config
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\bin\Debug\pc ekranı.exe
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\bin\Debug\pc ekranı.pdb
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc ekranı.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc ekranı.exe
+F:\Yeni klasör\Yeni klasör\pc ekranı\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\bin\Debug\pc ekranı.exe.config
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc ekranı.exe
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\bin\Debug\pc ekranı.exe
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\bin\Debug\pc ekranı.pdb
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+C:\Users\LAB5OGR16\Desktop\pc ekranı01\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+E:\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+C:\Users\Kirito\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\B2_1\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+C:\Users\B2_1\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+C:\Users\B2_1\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+C:\Users\B2_1\Desktop\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+D:\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+D:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+D:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+E:\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+E:\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+E:\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+D:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.CoreCompileInputs.cache
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+H:\ataprojeson\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+D:\atak2.0\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+D:\atak2.0\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+D:\atak2.0\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+E:\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe.config
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.exe
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.pdb
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.exe
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekranı.pdb
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Properties.Resources.resources
+I:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe.config
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.pdb
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekrani.Properties.Resources.resources
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.exe
+D:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.pdb
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe.config
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.exe
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.pdb
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.pdb
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekrani.Properties.Resources.resources
+E:\Login\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe.config
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.exe
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.pdb
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.pdb
+C:\Users\B2_1\Desktop\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekrani.Properties.Resources.resources
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe.config
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.exe
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekrani.pdb
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.exe
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\bin\Debug\pc ekrani.pdb
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekranı.Form1.resources
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc_ekrani.Properties.Resources.resources
+D:\11 sınıf prog\Ntp Projem\pc ekranı.1.0\pc ekranı\obj\Debug\pc ekranı.csproj.GenerateResource.Cache

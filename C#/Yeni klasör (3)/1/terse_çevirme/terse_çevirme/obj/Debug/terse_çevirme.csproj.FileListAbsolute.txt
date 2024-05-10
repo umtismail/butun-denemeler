@@ -1,0 +1,9 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\terse_çevirme\terse_çevirme\bin\Debug\terse_çevirme.exe.config
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\obj\Debug\terse_çevirme.csproj.AssemblyReference.cache
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\obj\Debug\terse_çevirme.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\obj\Debug\terse_çevirme.csproj.CoreCompileInputs.cache
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\bin\Debug\terse_çevirme.exe.config
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\bin\Debug\terse_çevirme.exe
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\bin\Debug\terse_çevirme.pdb
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\obj\Debug\terse_çevirme.exe
+D:\Dosyalar\visual\10 sınıf program\terse_çevirme\terse_çevirme\obj\Debug\terse_çevirme.pdb

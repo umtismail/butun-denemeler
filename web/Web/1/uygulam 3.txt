@@ -1,0 +1,10 @@
+<html>
+<hade>
+<title> güzel sözler</title>
+</hade>
+<body>
+<b>Ey Türk Gençliği!</b><br>
+Birinci vazifen Türk istiklalini, Türk Cumhuriyetini,
+<br>ilelebet, muhafaza ve müdafaa etmektir.
+</body>
+</html>

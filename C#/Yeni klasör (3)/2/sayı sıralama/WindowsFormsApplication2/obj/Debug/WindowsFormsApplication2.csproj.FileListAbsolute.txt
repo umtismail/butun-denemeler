@@ -1,0 +1,18 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\11 sınıf prog\form\sayı sıralama\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

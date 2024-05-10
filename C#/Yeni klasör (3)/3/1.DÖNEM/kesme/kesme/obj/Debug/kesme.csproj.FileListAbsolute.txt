@@ -1,0 +1,53 @@
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\bin\Debug\kesme.exe.config
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.csprojResolveAssemblyReference.cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\MainWindow.baml
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\MainWindow.g.cs
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\App.g.cs
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme_MarkupCompile.cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.g.resources
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.Properties.Resources.resources
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.csproj.GenerateResource.Cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\bin\Debug\kesme.exe
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\bin\Debug\kesme.pdb
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.exe
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\kesme\kesme\obj\Debug\kesme.pdb
+E:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe.config
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.exe
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.pdb
+E:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe
+E:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.pdb
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csprojResolveAssemblyReference.cache
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.baml
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.g.cs
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\App.g.cs
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme_MarkupCompile.cache
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.g.resources
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.Properties.Resources.resources
+E:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csproj.GenerateResource.Cache
+D:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe.config
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.exe
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.pdb
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csprojResolveAssemblyReference.cache
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.baml
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.g.cs
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\App.g.cs
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme_MarkupCompile.cache
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.g.resources
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.Properties.Resources.resources
+D:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csproj.GenerateResource.Cache
+D:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe
+D:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.pdb
+F:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe.config
+F:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.exe
+F:\visual\12 sınıf\kesme\kesme\bin\Debug\kesme.pdb
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csprojResolveAssemblyReference.cache
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.baml
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\MainWindow.g.cs
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\App.g.cs
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme_MarkupCompile.cache
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.g.resources
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.Properties.Resources.resources
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csproj.GenerateResource.cache
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.csproj.CoreCompileInputs.cache
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.exe
+F:\visual\12 sınıf\kesme\kesme\obj\Debug\kesme.pdb

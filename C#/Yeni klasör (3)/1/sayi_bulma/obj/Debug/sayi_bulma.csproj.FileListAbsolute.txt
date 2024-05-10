@@ -1,0 +1,5 @@
+c:\users\b3_14\documents\visual studio 2012\Projects\sayi_bulma\bin\Debug\sayi_bulma.exe.config
+c:\users\b3_14\documents\visual studio 2012\Projects\sayi_bulma\bin\Debug\sayi_bulma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\sayi_bulma\bin\Debug\sayi_bulma.pdb
+c:\users\b3_14\documents\visual studio 2012\Projects\sayi_bulma\obj\Debug\sayi_bulma.exe
+c:\users\b3_14\documents\visual studio 2012\Projects\sayi_bulma\obj\Debug\sayi_bulma.pdb

@@ -1,0 +1,49 @@
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\b2_1\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+H:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\11 sınıf prog\form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Dosyalar\visual\11 sınıf prog\form\sayı tahmin oyunu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

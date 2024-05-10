@@ -1,0 +1,12 @@
+﻿<Window x:Name="wn" x:Class="_19._10._18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" KeyDown="Window_KeyDown_1" Foreground="{x:Null}" AllowsTransparency="True" WindowStyle="None" Background="#FFFFFCFC" Activated="Window_Activated_1">
+    <Grid>
+        <Canvas x:Name="cn1" HorizontalAlignment="Left" Height="350" VerticalAlignment="Top" Width="525">
+            <Rectangle x:Name="rg1" Fill="DarkOrange" Height="50" Canvas.Left="171" Stroke="Black" Canvas.Top="79" Width="50" KeyDown="rg1_KeyDown" RenderTransformOrigin="0.487,0.479"/>
+            <Label Content="U.İsmail UZUN" Canvas.Left="10" Canvas.Top="314"/>
+        </Canvas>
+
+    </Grid>
+</Window>

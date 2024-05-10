@@ -1,0 +1,26 @@
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\MainWindow.baml
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\MainWindow.g.cs
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\App.g.cs
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama_MarkupCompile.cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.g.resources
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.Cache
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\Lab-1 PC8\Documents\Visual Studio 2012\Projects\uygulama\uygulama\obj\Debug\uygulama.pdb
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\bin\Debug\uygulama.exe.config
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.exe
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.pdb
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\bin\Debug\uygulama.exe
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\bin\Debug\uygulama.pdb
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.csprojResolveAssemblyReference.cache
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\MainWindow.baml
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\MainWindow.g.cs
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\App.g.cs
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama_MarkupCompile.cache
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.g.resources
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+D:\visual\12 sınıf\ismail uzun 1119 dash\uygulama\obj\Debug\uygulama.csproj.GenerateResource.Cache

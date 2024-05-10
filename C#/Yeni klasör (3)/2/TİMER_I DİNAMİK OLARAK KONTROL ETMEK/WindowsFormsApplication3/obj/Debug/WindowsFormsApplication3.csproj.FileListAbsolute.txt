@@ -1,0 +1,34 @@
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\B2_1\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+H:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\11 sınıf prog\form\TİMER'I DİNAMİK OLARAK KONTROL ETMEK\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

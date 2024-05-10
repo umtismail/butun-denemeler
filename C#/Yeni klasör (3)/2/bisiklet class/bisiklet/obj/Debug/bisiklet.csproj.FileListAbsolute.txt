@@ -1,0 +1,6 @@
+c:\users\b2_1\documents\visual studio 2013\Projects\bisiklet\bisiklet\bin\Debug\bisiklet.exe.config
+D:\11 sınıf prog\form\bisiklet class\bisiklet\bin\Debug\bisiklet.exe.config
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\bisiklet class\bisiklet\obj\Debug\bisiklet.csproj.AssemblyReference.cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\bisiklet class\bisiklet\obj\Debug\bisiklet.Properties.Resources.resources
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\bisiklet class\bisiklet\obj\Debug\bisiklet.csproj.GenerateResource.cache
+C:\Users\İSO\Desktop\Yeni klasör (3)-20240510T112652Z-001\Yeni klasör (3)\11\bisiklet class\bisiklet\obj\Debug\bisiklet.csproj.CoreCompileInputs.cache
